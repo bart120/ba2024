@@ -4,8 +4,8 @@ from base import est_pair, est_dans_tableau, afficher_tableau
 tab_fruits = ["kiwi", "mangue", "orange", "fraise"]
 print(est_dans_tableau(tab_fruits, "kiwi"))
 afficher_tableau(tab_fruits)
-
-
+#afficher_tableau(tab_fruits.sort())
+afficher_tableau(sorted(tab_fruits))
 """ tableau = 34, 67, 128, 456, 2
 print(tableau[2]) # affiche la valeur de la 3eme ligne du tableau
 index  = 0
