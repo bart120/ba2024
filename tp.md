@@ -19,7 +19,7 @@ Récupérer les données du fichier et les stocker dans un tableau d'éléments 
 
 ## Chiffres
 
-A partir des données en mémoires (exercice précédent), trouver les résultats suivants:
+A partir des données en mémoire (exercice précédent), trouver les résultats suivants:
 - Nombre de passager par catégorie de classe
 - Nombre de passager qui ont embarqué
 - Nombre de survivant par catégorie de classe
@@ -29,7 +29,7 @@ A partir des données en mémoires (exercice précédent), trouver les résultat
 
 ## Stats
 
-A partir des données en mémoires (exercices précédents), trouver les stats suivantes:
+A partir des données en mémoire (exercices précédents), trouver les stats suivantes:
 - % de chance de survie pour les passagers par classe
 - % de chance de survie pour les passagers par sexe
 - % de chance de survie pour les passagers par classe/sexe
@@ -37,7 +37,7 @@ A partir des données en mémoires (exercices précédents), trouver les stats s
 
 ## Tri
 
-A partir des données en mémoires (exercices précédents), créer un nouveau fichier csv dans le lequel vous allez enregistrer les données du fichier d'origine classées par classe, nom et prénom en ordre alphabétique.
+A partir des données en mémoire (exercices précédents), créer un nouveau fichier csv dans le lequel vous allez enregistrer les données du fichier d'origine classées par classe, nom et prénom en ordre alphabétique.
 Enregistrer ce nouveau fichier.
 
 ## Graph
@@ -52,7 +52,7 @@ En utilisant la lib Matplotlib, générer les graphiques suivants:
 
 Le TP est a faire en individuel en cours.
 
-# Soutenance et rendu
+# Rendu
 
 Le rendu se fera le jeudi 38 mars à 17h00 maxi.
 Toute absence de rendu entrainera un 0 (ZERO) pour l'étudiant.
