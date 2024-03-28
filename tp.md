@@ -54,7 +54,7 @@ Le TP est a faire en individuel en cours.
 
 # Rendu
 
-Le rendu se fera le jeudi 38 mars à 17h00 maxi.
+Le rendu se fera le jeudi 28 mars à 17h00 maxi.
 Toute absence de rendu entrainera un 0 (ZERO) pour l'étudiant.
 
 Le mail de rendu est vleclerc@inow.fr
